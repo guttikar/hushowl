@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-#Hush Owl#
+<h1>Hush Owl</h1>
 We are the silent observers and story tellers.
