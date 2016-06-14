@@ -4,8 +4,8 @@ encoding: utf-8
 title: Hush Owl | Silently observant
 description: > # this means to ignore newlines until "baseurl:"
   Hush Owl is a documentary and story telling company.
-baseurl: /hushowl # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hushowl.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
